@@ -12,6 +12,7 @@ header{
     padding-top: 11px;
     box-sizing: border-box;
     border-bottom: solid 15px color(white);
+    border-top: solid 20px color(black);
 }
 
 body{
